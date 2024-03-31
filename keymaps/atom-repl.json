@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "alt-cmd-t": "atom-repl:toggle",
+    "alt-cmd-r": "atom-repl:run",
+    "alt-cmd-c": "atom-repl:clear"
+  }
+}

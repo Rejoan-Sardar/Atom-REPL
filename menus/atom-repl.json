@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle JavaScript REPL",
+        "command": "atom-repl:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "JavaScript REPL",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-repl:toggle"
+            },
+            {
+              "label": "Run",
+              "command": "atom-repl:run"
+            },
+            {
+              "label": "Clear",
+              "command": "atom-repl:clear"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
