@@ -13,5 +13,5 @@ Still in active development, check back for progress!
 Install package through Atom or use CLI:
 
 ```
-$ apm install atom-repl
+$ apm install Atom-Repl
 ```
